@@ -1,3 +1,7 @@
+# Problem Statement
+
+Key financial institutions have reported an increase in False Positives from their Machine Learning and AI systems due to severe market changes, rendering their models obsolete. While analysts have recalibrated the models, the approval and deployment process is time-consuming, posing a significant challenge.
+
 # Objective
 
 To create a user-friendly and efficient application that automates the generation of structured approval documents for recalibrated ML models, ensuring compliance with industry standards and significantly reducing the time required for approval by financial institutions.
