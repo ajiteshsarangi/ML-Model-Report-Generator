@@ -1,3 +1,11 @@
+# Objective
+
+To create a user-friendly and efficient application that automates the generation of structured approval documents for recalibrated ML models, ensuring compliance with industry standards and significantly reducing the time required for approval by financial institutions.
+
+# Benefit
+
+The application will minimize the time-consuming approval process for recalibrated ML models, thereby enhancing the responsiveness of financial institutions to market changes. This will reduce the risk of financial instability caused by outdated models, ensuring quicker adaptation and sustained operational efficiency.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
